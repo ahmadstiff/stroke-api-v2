@@ -5,5 +5,3 @@ scikit-learn
 joblib
 numpy
 pandas
-streamlit
-requests
