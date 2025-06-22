@@ -1,8 +1,6 @@
-flask
-flask-cors
+streamlit
 lightgbm
-scikit-learn
+scikit-learn==1.6.1
 joblib
 numpy
 pandas
-gunicorn
